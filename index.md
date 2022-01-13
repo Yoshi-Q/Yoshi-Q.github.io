@@ -11,4 +11,4 @@ Here are some demostrations of the implementations, the full repository can be f
 [K Nearest Neighbours](KNN_demo.html)
 
 
-[Lasso Regression](myLasso_demo)
+[Lasso Regression](myLasso_demo.html)
