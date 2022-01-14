@@ -12,3 +12,5 @@ Here are some demostrations of the implementations, the full repository can be f
 
 
 [Lasso Regression](myLasso_demo.html)
+
+[KMeans](Kmeans_demo)
