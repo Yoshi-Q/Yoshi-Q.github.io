@@ -3,6 +3,7 @@
 ## Data Science Projects
 
 Here is my [work of customer segmentations with unsupervised learning](Customer_Segmentations.html)
+Here is my [work of scrapping listing data from VRBO](https://github.com/Yoshi-Q/Yoshi-Q.github.io/blob/main/Looped_api.html)
 
 ## Machine Learning Algorithms Implementations:
 
@@ -14,3 +15,4 @@ This repo is committed to implementation of some common machine learning algorit
 [Lasso Regression](myLasso_demo.html)
 
 [KMeans](Kmeans_demo.html)
+
